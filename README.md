@@ -1,2 +1,1 @@
-# APP_Laundry_CodeIgniter
-Aplikasi Sederhana Jasa Laundry Dengan CodeIgniter 3.
+Laundry service application is made to facilitate the owner of laundry service for easier in managing its services.
