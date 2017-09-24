@@ -1,0 +1,82 @@
+        ::selection { background-color: #357daa; color: white; }
+	    ::-moz-selection { background-color: #357daa; color: white; }
+        *{
+			margin:0;padding: 0;font-family: sans-serif;
+		}
+		body {
+			background: #dddddd; /*2c3e50;*/
+		}
+		#topbar {
+			height: 60px;
+			background: #2c3e50;
+			border-bottom: 1px solid #464b59;
+		}
+        .stl {
+            color:#fff;
+            font-size: 17px;
+        }
+		.title_app {
+			float: left;
+			color: #fff;
+			line-height: 40px;
+            font-weight: bold;
+		}
+		.title_app:hover {
+			color:#dddddd;
+		}
+		#topbar ul li {
+			list-style: none;
+			float: right;
+			position: relative; top:19px;
+		}
+		#topbar li a {
+			color: #fff;
+		}
+		#topbar li a:hover {
+			text-decoration: none;
+			color: #dddddd;
+		}
+		#sidebar {
+			height: 0 auto;
+			background: #2c3e50;
+			float: left;
+		}
+		#sidebar ul {
+			margin: 0;padding: 0;
+		}
+		#sidebar ul li {
+			list-style: none;
+		}
+		#sidebar li a {
+			color: #fff;
+			font-size: 12px;
+			padding: 15px 0px;
+			display: block;
+		} 
+		#sidebar li a:hover {
+			text-decoration: none;
+			color: #dddddd;
+		}
+		#content {
+			height: auto;
+			background: #dddddd;
+			float: right;
+		}
+		#panel {
+			margin-top: 20px;
+		}
+		input {
+			margin-bottom: 15px;
+			width: 250px;
+		}
+		#btnn {
+			margin-top: 10px;
+			width: 100px;
+		}
+		#tam_dat {
+			margin-bottom: 10px;
+		}
+		#tengah {
+			text-align: center;
+		}
+	
